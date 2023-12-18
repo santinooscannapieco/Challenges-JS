@@ -1,3 +1,5 @@
+console.log("RETO #2")
+
 function manufacture(gifts, materials) {
     // Code here
     const fabricable = []

@@ -1,3 +1,5 @@
+console.log("RETO #1")
+
 function findFirstRepeated(gifts) {
   const seen = new Set();
   
